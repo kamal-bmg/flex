@@ -1,13 +1,13 @@
 h1{
     background-color: chartreuse;
-    border: dodgerblues;
+    border: double;
    
    padding: 10px;
     text-align: center;
 }
 img{
     display:flexs;
- 
+    transition: all 1s;
     flex-wrap: wrap;
     height: 250px;
     width: 250;
@@ -16,4 +16,10 @@ img{
 div{
     margin: 50px;
     padding: 5px;
+}
+img:hover{
+    transform: scale(1.1);
+}
+.kamal{
+    
 }
