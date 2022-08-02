@@ -1,0 +1,19 @@
+h1{
+    background-color: chartreuse;
+    border: dodgerblues;
+   
+   padding: 10px;
+    text-align: center;
+}
+img{
+    display:flexs;
+ 
+    flex-wrap: wrap;
+    height: 250px;
+    width: 250;
+}
+
+div{
+    margin: 50px;
+    padding: 5px;
+}
